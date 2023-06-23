@@ -3,6 +3,7 @@
 I wanted to be able to access the Bestway REST API for my Lay-z-spa Milan hot tub.
 
 I used various other github projects that had already reverse engineered the Bestway API and picked through what they'd done and turned it into curl commands.
+Here were my references: https://github.com/NicolasBernaerts/debian-scripts/tree/master/heatzy / https://github.com/cdpuk/ha-bestway/tree/main
 
 First I downloaded the Bestway app, signed up for an account (with username and password which we'll use in a minute) and connected my hot tub. I only have one device in the Bestway app. I'm in the UK so I am connected to the EU endpoint of Gizwits.
 
